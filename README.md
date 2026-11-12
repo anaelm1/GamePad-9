@@ -4,6 +4,10 @@ GamePad 9 is a 9 key macropad with a rotary encoder, an OLED Display. It uses KM
 
 It is made as a dedicated macropad for gaming (first person or racing games etc).
 
+Final picture:
+
+<img src=assets/IMG_6278.PNG alt="picture" width=600 />
+
 ## Features:
 - 3D printed body with a honeycomb design to show the PCB. 
 - 128x32 OLED Display.
